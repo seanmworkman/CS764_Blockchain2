@@ -1,0 +1,2 @@
+Case#: a Block#: 2 # of Nonces attempted: 1 Computation time: 14.106554999947548
+Case#: b Block#: 1088421 # of Nonces attempted: 1088420 Computation time: 833346.7675869912
